@@ -1,2 +1,2 @@
 This  is  a test about deleted file when submit to git stage,I change some new things
-Git  is a free softwore
+Git  is a free softwore Git is very easy software
